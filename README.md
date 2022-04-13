@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nimrods Github
 
 You can use the [editor on GitHub](https://github.com/Nimr0dK0fman/courseranew/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
